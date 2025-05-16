@@ -25,4 +25,4 @@
 Модель достигла следующих метрик на тестовой выборке:
 
 - **RMSE**: 3856 Кельвинов
-- **График: Факт vs Прогноз**: ![Temperature Prediction Graph](https://github.com/v-kasper/ML/blob/main/predicting_star_temperature/fact_vs_prediction.png)
+- **График: Факт vs Прогноз**: ![Temperature Prediction Graph](https://github.com/v-kasper/ML/blob/main/predicting-star-temperature/fact_vs_prediction.png)
